@@ -3,4 +3,4 @@ Created by Daniel Xolalpa Unda
 
 """
 def md5():
-	pass
+	return ""
